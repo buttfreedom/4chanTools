@@ -21,7 +21,7 @@
 #
 # There may be other assumptions.
 #
-# author creepymelvindoll, August 18 2015
+# author buttfreedom, August 18 2015
 
 import sys
 import re
